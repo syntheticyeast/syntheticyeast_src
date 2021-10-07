@@ -1,0 +1,31 @@
+coordinate (relative to yeast_chr12_3_40)	variant	in a gene?	nearest gene ID	gene name	amino acid change
+1315	G was mutated to A	N	YLL064C	PAU18
+2180	T was absent	N	YLL063C	AYT1
+27813	A was mutated to T	Y	YLL050C	COF1
+82699	LoxP site was absent	N	YLL025W	PAU17
+83170	LoxP site was absent	N	YLL024C	YG102
+113931	C was mutated to T	Y	YLL012W	YEH1	T173I
+142535	C was mutated to T	Y	YLR002C	NOC3	E640K
+159308	C was mutated to T	Y	YLR013W	GAT3	Q63*
+186197	T was mutated to C	Y	YLR027C	ASP5
+200692	LoxP site was absent	N	YLR035C	MLH2
+204939	T was mutated to C	Y	YLR037C	DAN2
+256543	A was inserted	Y	YLR070C	XYL2
+406607	ATCAAGAAC was absent	Y	YLR141W	RRN5	
+462443	A was mutated to C	Y	YLR166C	SEC10	D612E
+463604	T was mutated to A	Y	YLR166C	SEC10	E225D
+517167	A was absent	Y	YLR202C	""	FrameShift
+601138	LoxP site was absent	N	YLR250W	SSP120
+624337	GGACC was mutated to AGATT	Y	YLR263W	RED1
+634260	A was mutated to C	Y	YLR268W	TSL26	D134A
+634674	T was mutated to C	Y	YLR269C	""
+700344	C was mutated to A	Y	YLR308W	CDA2	H176Q
+737009	G was absent	N	YLR328W	NMA1
+770911	LoxP site was absent	N	YLR344W	RPL26A
+780625	T was mutated to C	Y	YLR351C	NIT3	D214G
+808426	LoxP site was absent	N	YLR367W	RPS22B
+840332	LoxP site was absent	N	YLR384C	TOT1
+844507	LoxP site was absent	N	YLR385C	AWS1
+850446	LoxP site was absent	N	YLR388W	YS29A
+861020	A was absent	Y	YLR394W	ZIP3	FrameShift
+921022	TCACAGAGT was mutated to AGTCAAAGC	Y	YLR424W	NTR1

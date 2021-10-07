@@ -1,0 +1,4 @@
+type	version	size (bp)	# of CDS	# of intron	# of ARS	# of tRNA	# of stop codon swap	# of LoxP site	# of PCR tag	bases of PCR tag	bases of RE site
+Wild Type	yeast_chr05_0_00	576874	328	15	19	20	NA	NA	NA	NA	NA
+Final Design	yeast_chr05_3_43	536024	306	5	14	0	61	174	678	8760	813
+Physical Strain	yeast_chr05_9_22	536024	306	5	14	0	61	174	678	8760	813

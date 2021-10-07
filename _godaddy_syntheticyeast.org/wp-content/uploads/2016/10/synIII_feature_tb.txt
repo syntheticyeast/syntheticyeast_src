@@ -1,0 +1,4 @@
+type	version	size (bp)	# of CDS	# of intron	# of ARS	# of tRNA	# of stop codon swap	# of LoxP site	# of PCR tag	bases of PCR tag	bases of RE site
+Wild Type	yeast_chr03_0_00	316617	187	10	19	10	NA	NA	NA	NA	NA
+Final Design	yeast_chr03_3_41	272195	163	0	13	0	44	100	372	5272	250
+Physical Strain	yeast_chr03_9_02	272875	158	0	13	0	44	100	372	5272	250

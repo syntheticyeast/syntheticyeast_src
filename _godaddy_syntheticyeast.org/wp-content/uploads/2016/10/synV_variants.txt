@@ -1,0 +1,3 @@
+coordinate (relative to yeast_chr05_3_43)	variant	in a gene?	nearest gene ID	gene name	amino acid change
+325792	G was mutated to T	Y	YER091C	MET6	Q45K
+345193	G was mutated to A	Y	YER102W	RPS8B

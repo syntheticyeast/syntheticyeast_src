@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+	<!--[if IE 8]>
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
+	<![endif]-->
+	<!--[if !(IE 8) ]><!-->
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<!--<![endif]-->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Log In &lsaquo; Synthetic Yeast 2.0 &#8212; WordPress</title>
+	<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel='stylesheet' id='dashicons-css'  href='http://syntheticyeast.org/wp-includes/css/dashicons.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://syntheticyeast.org/wp-includes/css/buttons.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://syntheticyeast.org/wp-admin/css/forms.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://syntheticyeast.org/wp-admin/css/l10n.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://syntheticyeast.org/wp-admin/css/login.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='http://syntheticyeast.org/wp-content/plugins/captcha/css/front_end_style.css?ver=4.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css'  href='http://syntheticyeast.org/wp-content/plugins/captcha/css/desktop_style.css?ver=4.2.9' type='text/css' media='all' />
+	<meta name='robots' content='noindex,noarchive' />
+	<meta name='referrer' content='strict-origin-when-cross-origin' />
+		<meta name="viewport" content="width=device-width" />
+		</head>
+	<body class="login login-action-login wp-core-ui  locale-en-us">
+		<div id="login">
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress">Powered by WordPress</a></h1>
+	
+	<form name="loginform" id="loginform" action="wp-login.php" method="post">
+	<p>
+		<label for="user_login">Username or Email Address<br />
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br />
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
+	</p>
+		<p class="cptch_block"><script class="cptch_to_remove">
+				(function( timeout ) {
+					setTimeout(
+						function() {
+							var notice = document.getElementById("cptch_time_limit_notice_9");
+							if ( notice )
+								notice.style.display = "block";
+						},
+						timeout
+					);
+				})(120000);
+			</script>
+			<span id="cptch_time_limit_notice_9" class="cptch_time_limit_notice cptch_to_remove">Time limit is exhausted. Please reload the CAPTCHA.</span><span class="cptch_wrap cptch_math_actions">
+				<label class="cptch_label" for="cptch_input_9"><span class="cptch_span"><img class="cptch_img " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpiTIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhQTFRFlJSU////U1NTAAAAtra21dXVJycn7Ozs/WDKewAACKtJREFUeNrs3QFyIjcQQFEhRtL9bxzXVipZVzYGY7Wmxbx/AJtFzzNNw9rlpktXPAUACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABAAAngIABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAzgZQ73Mai75f//Vk3WdWAVgIoAPgCgCAKwAArgAAuAIA4AoAgCsAAK4AAJwGYLSj1Jd/LHuvpZSjtfGN7/fxDV/6jh/f62h/f5WjlB/T7fXjCx5tjEsD+OcJ7S+exqtPX/vWEfZ6jD886vqign8peS/g3xN5/seyl/b6yf92gB8Knvqe9ZhIt8558O/4ZlB78t56TL34PDzAMr5W9MSXeIYSAL+uAk88idMvnsdX51fHMz+u46nLV097/HneDi6nDM3Hz6824/Ej7+MGwOOLQF95A3jwXXub+MhTn3+iD4SMB7eBmEc6ZhxZP+GBvx+AR8uaoL1JmfAjO/a9AKQC8PU1oAfdemZMm3XbC0CuzwSOPmPr+81mnFhbPbu8KYAvn8hVQ8BLt5ov5N4AmPRqsK4B8NK6oa6+c70rgC9vAmPFRec1ZjX5e37bAPjyEhDyWI8pygoAYTNZ8NW0TEEGwJJLQIv/fgOAxC8EIh5snfIdAJhXX7tU61PmTADW3APmL1XGnEsMAIEvzEOfzWPOkAFA2F05eBVQ5xwWAIGvzEPHwD7nDgPAqjEw8jXHD744AJuuAsqkywsAq1YBNfBiMwDIPwb2OGr1BsDVVgFl1t0FgD1XAX3WtQWALVcBbdorTAC2XAWUacMFADuuAj59/KgCcLlVwDHvzgLAjquAOu+LArDhKuDTHeAA4HKrgDIRFQDTi78H1IkvLQDYbxXQZn5FAJaOgVMedJl5SgBstwr4NAI2AC63CjimggJgfsHvCNWptxQAdlsFjLn/gxuA3VYBZe4ZAbDbKqDPfVUJwGargDb5iADYbBVQJm8VANhsFTD7vSUA9hoDj9knBMBeq4A6+40FANavAsYcWPUGQN6OmHtAmf7hAgC2ugf06b90BIATVgFtxnVl0r8fgJ1WAXX+R4wB2GgVMAKOB4CNVgHzR0AAthoDe8D/MgJgn1VAe/ovwwGQfRVQfiqquQKkBzD7UwG/fxh03uEAcM4YOH725Q4ANgAweRUQMQICsM8qoMX/qgkAMq8Cpr8RDMBeq4AeczQAnLQK+O5H+o+gXzgHwB6rgN//NunUXzkJwFlj4Pee36AREIAT7wHt1XMaAGwDYNoqIOxgANhiFRA1AgKwySogagQEYI9VwIj72zMA7LAKCBsBAdhiFTB63LEAsMEqIG4EBCB+CJjwK6PiRkAAdlgFBI6AAOywCggcAQHYYRXQIw8FgPh+uAo44v76JAA7rAIiR0AA8q8CQkdAAPKvAkJHQADyrwJ67JEAkHwVELkFBGCDVUDsCAhA9lVA8AgIwKIp4OVVQPAICED2VUCPPhAAUq8CokdAAJKvAqJHQAByrwLCR0AAcq8CwkdAAHKvAnr8cQCQeBUQPwICkHoVED8CApB5FbBgBAQg8ypgwQgIQOYxsK84DABS3APaSSMgAIlXAStGQACS3APuJ42AAORdBSwZAQHIuwroa44CgCRj4DhlBAQg7SpgzQgIQNZVwIj46yAAbLMK+PT5geYK8C4Anl8F9FUHAUDKVcCqERCApKuAVSMgADlXAW3NFhCArKuAZSMgADlXAQuPAYCEq4CybAQEIOUqYN0ICECuVcD47wg4AHgvAE/cA+q6ERCAhKuA0VceAgDpVgErR0AAEq4Cfv8bwQOA9wPwYBXQ1p4BANnGwKC/EQzALquAxUcAQLJVQFn3PhAACe8B9/7635cG4B1WAatPAIBkq4CVW0AAMo6B694HAiDlKmDpCAjAST0D4AbA+wIoSUZAABKuAlaOgABkXAUsHAEBSHsPKAC8NYCHq4ABwFsDeLQKqDcA3hvAg1XAAcCbA7ilGAEBSDoGlgQPowNw3j1gZHAIwGmrgIVX33r6KuqyAEqCEfBLAAWAk1YBK+++KSbRawL4/x++hf+0I8coek0AR4Kbb73nmEUvCeB2/gh43JOsI64JoJw9ArZHb0r2BsDyn78+0px/6jngDQD8eRWw6h82nvx0ehkALL0HtFTH/+uaVI4BwKpVQPwIOI6j9vs367W0AcCCV2Ex/67RjqOUWmv/9tF/VlCONgYAcWNgzCuvcp9ZBSBuFVABuBSAumYEBCBrbc3uDYBdVgEFgIsBKEs+hQPAJquACsDVAHweAxsAlwNwrHj7FYA9VgFv828C4LV7wHCsFwQgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAAEAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABAAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAAaBZ/SXAALWfbPIhec/UAAAAAElFTkSuQmCC" alt="image"/></span>
+					<span class="cptch_span">&nbsp;&#43;&nbsp;</span>
+					<span class="cptch_span"><input id="cptch_input_9" class="cptch_input cptch_wp_login" type="text" autocomplete="off" name="cptch_number" value="" maxlength="2" size="2" aria-required="true" required="required" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" /></span>
+					<span class="cptch_span">&nbsp;=&nbsp;</span>
+					<span class="cptch_span"><img class="cptch_img " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpiTIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhQTFRFmZmZUlJS////AAAAubm52NjYJiYm7u7uZ5/QsAAACkZJREFUeNrs3dFy20gOQNFumc3+/z8eV/LkiUORIgBS8bmPW7VpST4mYUj2tId+dM1LAIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAAAOAlAEAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAAAPj2f+0fMc2dj+Lseeuvp/IRWf/uxco+If8p3BTACsDPBuAK8LMBTADcAgBwCwAAAADcAgBwBQDgagBzLK2//G259t5bW8bY+/X/dV7rL5249s+Tfh80l6X30xeT3499fvvY00/IfwpHVsFzaevhr0YbZxaT49PBkeOWP5/kOPyojz749BPyn8Le9wLmY+z/eqyfZ8/H2T7/hWUfgr789V84TrcfefDpJ+Q/hQNvBs2dN6Yl8B2KOZ8++yfS52PufwH78pLU5BPyn8LedwN3XQXGI7hl68n3fdfqXXbX5cwtK/mE9AP2vR38/FH0R3zt9NVm7rh8rfPktSr3hOwDdn4eYDy9Ime8V/2XU9dx/t8I+vqXnJB6wN4v3LP3a3I+WDICnu9csx94+gmZB+z/P/fyW8D3d4HD3ufTFdLpL1D2CYkH7AewfQ1IAjAips2e/rjTT8g7oEVdiGYKgBlxvRvpP7ymn5B3QAt6FElDwB8A+ivQNuQGPc70E9IOOPJ12/yBpNcAGLEX0DXocaafkHZAO3dBzr4HjBBmPZ1t+glpBxy7crfqe8ASoqylA0g/od0DwNYcuGYAaCHIAIgCsPnjyIj/+v9/6pgAXAxg6weBljAF9JC7DABhADYvAQm3gDVkzgQgDkAr+kTAdz929AcAlwOYpauAJeYHTQDiAGzeA8KHgB7zTAEIBLBUrgLWmDsMAIEAHoWrgBH0jwMQCGDzDYHYVcDXoxoA97gCjLoxcA0aMACIBLA1BsbeA0bU8wQgFEDZKqBF3V0ACAXwqLoHrFHXFgBiARStAkbcJ18BCAVQswr48jPA+gDgPgCKVgFr3CdfAQgFULMKWOLuLAAEXwFKVgE98EkCEAugYhXw5dNnCwD3AlDw4dAWiAqAaAAFq4AeaAqAcADpq4AR+S8CEA5gZN8DWuRrCEA4gPRVQOAICEAGgORVwBIKCoB4AMmrgB56SwEgHkDyLwjEDpUAJABI/VRAi30FAUgAkLoKWGMnCgAyACT+nugIfgEByACQtwr48m5jA+CmABJXAWf+KBwAZQDSxsAl+vUDIAVA2iqgR7+xAEAKgM1PBZz4ws3wlw+AHABJHw6NHgEByAKQtApYwz9eBEASgJRVwBL/Z4cASAKQsgro8R8xBiAJwOYq4MVv3vmOX54fCyBhFdASftUUgCwACX8yag3eAgKQCSB+FTAyfs8QgDQA4auAhBEQgEQAW389+qVHlvK3BgBIAxC9CsgYAQHIBBC8Cugpv2gOQB6A2FXAiN8CApAMIHQVkDICApAKIHQVsOb8uSkAEgFE/p5ozggIQC6AwFVAzggIQC6AuFVAyhYQgGwAcauAFv1ZQABKAIStAj5yRkAAkgFErQKWpBEQgGwAQauArBEQgGwAMauAmTUCApANIGQVMNNGQADSAYSsAtasERCAdACPgFVA3ggIQD6AgD8ZlTcCApAOYJ5fBSSOgADkXwHOrwISR0AACgCcXQXMxBEQgAIAZ1cBS84nQQCoAnB2FZA5AgJQAeDcKiB1BASgAsCpVcBMHQEBKAFw6lMBqSMgACUAzqwCMreAABQBOLMKyB0BAagB8PoqIHkEBKAGwOurgOQREIAaAK+vApJHQACKALy6CsgeAQEoAvDqKiB7BASgCsBrq4D0ERCAKgCvrQLSR0AAqgC8tgpIHwEBKAPwyiogfwQEoAzAK6uA/BEQgDIAL6wCCkZAAOoAHF8FtNSPAgFQDOD4KqBgBASgEMDRVUDFCAhAIYCjq4CKERCAQgBb94CPJyPgBOAfAHBsFVAyAgJQCeDYKqBkBASgEsChVUDNCAhAKYAjq4CaERCAUgAH/pvSJVtAAKoB7F8FFI2AANQC2L8K+KgZAQGoBbB7FVA1AgJQDGDvKqBqBASgGMDOVUDSfx0EgMsB7FwF9KoREIBqAPtWAWvVCAhANYC5ZxXQykZAAKoB7FoF9KN/RwyA9wGwYxWQ9l8HAeAGAHasAgpHQADqATxfBXzUjYAA1AN4ugpolXcAAMoBPF0FrGVbQAAuAfBkFTBK7wAA1AN4sgooHQEBuADA9ipg1l4AALgAwNYqoNeOgABcAWDzk2Hr5i8LAPBPANhaBRTfAQC4AsDcB2AA8I8C2BwDK5cAAFwEYNkDoAHwzwLYWgVk/1kwAG4AYM89oGQEBOAiAOMmIyAAFwF4rPcYAQG4CkC7xwgIwFUA5j1GQACuAvBsDCwaAQG4DMCTVcACwD8OYHsVUDUCAnAZgO17QLsBgPVdTkg7IPerMO4wAm7+OPIuJ6QdkPxtuN5gBNy8EI03OSHtgHbZ995yCwDtTU5IOyAZwLzBCPjlt1D+eBjzPU5IO6Bd9c1XNwJu/zTa3uKEvAPaVS/+qAOw+bPIOt7hhLwDsgH8bRXQb3IBCLlEp5+QeEC76NuvbgQcz96UPP0dmn5C5gHpAEbqz987vnl2fDDp3N+oSj8h9YD8WWy9cgSc+z6dvrZx2xOSD7jod7NrRsCx85cTfr+Ay7zhCekH5AOYl4yAc2m9fxxs7W3M25yQ/xRqAHw3BqacOudYWvt80fq6frze50vYljHnFSfkP4UrACxFI2D7iKxfcUL+U7gCwKPoDgDAXQH0mhEQgLsCGDUjIAB3BfD/VUAD4IcBaCUfBQLgtgBmyRIAgNsC+DoGDgB+HICl4qNAANwXwOOajwLpNgD6FZ8G130ACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAA8BIAIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAAAeAkAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAA0Bv2nwADALleX4bzgolQAAAAAElFTkSuQmCC" alt="image"/></span>
+					<input type="hidden" name="cptch_result" value="oNc=" /><input type="hidden" name="cptch_time" value="1633536823" />
+					<input type="hidden" name="cptch_form" value="wp_login" />
+				</label><span class="cptch_reload_button_wrap hide-if-no-js">
+					<noscript>
+						<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+					</noscript>
+					<span class="cptch_reload_button dashicons dashicons-update"></span>
+				</span></span></p><br />	<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+				<input type="hidden" name="redirect_to" value="http://syntheticyeast.org/sponsors/nsf_logo-2/" />
+					<input type="hidden" name="testcookie" value="1" />
+	</p>
+	</form>
+
+			<p id="nav">
+					<a href="wp-login.php?action=lostpassword">Lost your password?</a>
+				</p>
+	
+	<script type="text/javascript">
+	function wp_attempt_focus(){
+	setTimeout( function(){ try{
+			d = document.getElementById('user_login');
+				d.focus();
+	d.select();
+	} catch(e){}
+	}, 200);
+	}
+
+			wp_attempt_focus();
+			if(typeof wpOnload=='function')wpOnload();
+			</script>
+
+			<p id="backtoblog"><a href="index.html">
+		&larr; Back to Synthetic Yeast 2.0	</a></p>
+			
+	</div>
+
+	
+	<script type='text/javascript' src='http://syntheticyeast.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://syntheticyeast.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cptch_vars = {"nonce":"b8380fa6c7","ajaxurl":"http:\/\/syntheticyeast.org\/wp-admin\/admin-ajax.php","enlarge":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://syntheticyeast.org/wp-content/plugins/captcha/js/front_end_script.js?ver=5.1.10'></script>
+	<div class="clear"></div>
+	</body>
+	</html>
+	

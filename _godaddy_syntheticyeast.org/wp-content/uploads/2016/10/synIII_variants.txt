@@ -1,0 +1,10 @@
+oordinate (relative to yeast_chr03_3_41)	variant in a gene?	nearest gene ID	gene name	amino acid change
+68618	G was mutated to T	Y	YCL025C	AGP1
+71593	C was inserted	Y	YCL024W	KCC4	FrameShift
+92548	C was mutated to A	Y	YCL002C	Q117H
+176111	A was mutated to G	Y	 YCR038C	BUD5
+182368	T was absent	N	YCR042C	TAF2	
+195513	G was mutated to C	Y	YCR054C	CTR86	P462A
+221701	T was absent	Y	YCR073C	SSK22	FrameShift
+243006	T was mutated to C	Y	YCR088W	ABP1
+252434	A was absent	Y	YCR091W	KIN82	FrameShift

@@ -1,0 +1,5 @@
+type	version	size (bp)	# of CDS	# of intron	# of ARS	# of tRNA	# of stop codon swap	# of LoxP site	# of PCR tag	bases of PCR tag	bases of RE site
+Wild Type	yeast_chr12_0_00	1078177	586	33	26	21	NA	NA	NA	NA	NA
+Final Design	yeast_chr12_3_40	999406	551	7	26	2	122	291	1338	15129	1539
+Physical Strain	yeast_chr12_9_02	999087	551	7	26	2	122	282	1338	15129	1539
+Physical Strain(rDNA deleted)	yeast_chr12_9_04	979112	551	7	26	2	122	282	1338	15129	1539

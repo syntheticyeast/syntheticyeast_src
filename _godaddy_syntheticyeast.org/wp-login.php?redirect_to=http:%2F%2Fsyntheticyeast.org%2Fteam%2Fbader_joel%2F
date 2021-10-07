@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+	<!--[if IE 8]>
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
+	<![endif]-->
+	<!--[if !(IE 8) ]><!-->
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<!--<![endif]-->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Log In &lsaquo; Synthetic Yeast 2.0 &#8212; WordPress</title>
+	<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel='stylesheet' id='dashicons-css'  href='http://syntheticyeast.org/wp-includes/css/dashicons.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://syntheticyeast.org/wp-includes/css/buttons.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://syntheticyeast.org/wp-admin/css/forms.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://syntheticyeast.org/wp-admin/css/l10n.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://syntheticyeast.org/wp-admin/css/login.min.css?ver=5.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='http://syntheticyeast.org/wp-content/plugins/captcha/css/front_end_style.css?ver=4.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css'  href='http://syntheticyeast.org/wp-content/plugins/captcha/css/desktop_style.css?ver=4.2.9' type='text/css' media='all' />
+	<meta name='robots' content='noindex,noarchive' />
+	<meta name='referrer' content='strict-origin-when-cross-origin' />
+		<meta name="viewport" content="width=device-width" />
+		</head>
+	<body class="login login-action-login wp-core-ui  locale-en-us">
+		<div id="login">
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress">Powered by WordPress</a></h1>
+	
+	<form name="loginform" id="loginform" action="wp-login.php" method="post">
+	<p>
+		<label for="user_login">Username or Email Address<br />
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br />
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
+	</p>
+		<p class="cptch_block"><script class="cptch_to_remove">
+				(function( timeout ) {
+					setTimeout(
+						function() {
+							var notice = document.getElementById("cptch_time_limit_notice_49");
+							if ( notice )
+								notice.style.display = "block";
+						},
+						timeout
+					);
+				})(120000);
+			</script>
+			<span id="cptch_time_limit_notice_49" class="cptch_time_limit_notice cptch_to_remove">Time limit is exhausted. Please reload the CAPTCHA.</span><span class="cptch_wrap cptch_math_actions">
+				<label class="cptch_label" for="cptch_input_49"><span class="cptch_span">7</span>
+					<span class="cptch_span">&nbsp;&minus;&nbsp;</span>
+					<span class="cptch_span"><input id="cptch_input_49" class="cptch_input cptch_wp_login" type="text" autocomplete="off" name="cptch_number" value="" maxlength="2" size="2" aria-required="true" required="required" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" /></span>
+					<span class="cptch_span">&nbsp;=&nbsp;</span>
+					<span class="cptch_span"><img class="cptch_img " src="data:image/png;base64,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" alt="image"/></span>
+					<input type="hidden" name="cptch_result" value="wyA=" /><input type="hidden" name="cptch_time" value="1633536590" />
+					<input type="hidden" name="cptch_form" value="wp_login" />
+				</label><span class="cptch_reload_button_wrap hide-if-no-js">
+					<noscript>
+						<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+					</noscript>
+					<span class="cptch_reload_button dashicons dashicons-update"></span>
+				</span></span></p><br />	<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+				<input type="hidden" name="redirect_to" value="http://syntheticyeast.org/team/bader_joel/" />
+					<input type="hidden" name="testcookie" value="1" />
+	</p>
+	</form>
+
+			<p id="nav">
+					<a href="wp-login.php?action=lostpassword">Lost your password?</a>
+				</p>
+	
+	<script type="text/javascript">
+	function wp_attempt_focus(){
+	setTimeout( function(){ try{
+			d = document.getElementById('user_login');
+				d.focus();
+	d.select();
+	} catch(e){}
+	}, 200);
+	}
+
+			wp_attempt_focus();
+			if(typeof wpOnload=='function')wpOnload();
+			</script>
+
+			<p id="backtoblog"><a href="index.html">
+		&larr; Back to Synthetic Yeast 2.0	</a></p>
+			
+	</div>
+
+	
+	<script type='text/javascript' src='http://syntheticyeast.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://syntheticyeast.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cptch_vars = {"nonce":"b8380fa6c7","ajaxurl":"http:\/\/syntheticyeast.org\/wp-admin\/admin-ajax.php","enlarge":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://syntheticyeast.org/wp-content/plugins/captcha/js/front_end_script.js?ver=5.1.10'></script>
+	<div class="clear"></div>
+	</body>
+	</html>
+	

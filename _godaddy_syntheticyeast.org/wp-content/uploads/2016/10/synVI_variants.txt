@@ -1,0 +1,12 @@
+coordinate (relative to yeast_chr06_3_27)	variant	in a gene?	nearest gene ID	gene name	amino acid change
+47427	A was mutated to G	Y	YFL036W	RPO41
+50460	C was mutated to T	Y	YFL034W	""
+54044	A was mutated to G	Y	YFL033C	TAK1	I1713T
+55665	A was mutated to G	Y	YFL033C	TAK1	S1173P
+56218	A was mutated to G	Y	YFL033C	TAK1
+103865	C was mutated to A	Y	YFL008W	CHL10
+103868	G was mutated to T	Y	YFL008W	CHL10
+119662	A was mutated to G	Y	YFL003C	MSH4	Y643H
+240434	A was mutated to C	Y	YFR055W	IRC7	T149P
+224926-224955	AGCCAAGCTAAAATTTCGGCTGCTTCGAGC was mutated to GGCCAGTGAGAAGTTTCTAGAAGAACGGGC	Y	YFR050C	PRE4
+224818	T was mutated to C	Y	YFR050C	PRE4

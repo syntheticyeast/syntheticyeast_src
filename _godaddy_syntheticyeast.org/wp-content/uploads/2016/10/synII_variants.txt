@@ -1,0 +1,60 @@
+coordinate (relative to yeast_chr02_3_26)	variant	in a gene?	nearest gene ID	gene name	amino acid change
+16709	G was absent	Y	YBL101C	ART2	FrameShift
+38932	A was mutated to G	Y	YBL088C	TEL1	F1378L
+39073	T was mutated to C	Y	YBL088C	TEL1	I1331V
+79639	T was mutated to G	Y	YBL067C	UBP13
+79642	G was mutated to A	Y	YBL067C	UBP13
+86939	C was mutated to T	Y	YBL063W	CIN9
+86945	G was mutated to A	Y	YBL063W	CIN9
+86948	C was mutated to T	Y	YBL063W	CIN9
+95247	A was mutated to G	Y	YBL059W	""
+95580	C was mutated to T	Y	YBL058W	UBX1
+102040	C was mutated to T	Y	YBL054W	PBF1	P105S
+126624	C was mutated to T	Y	YBL040C	ERD2	G148E
+135176	G was mutated to T	Y	YBL036C	""
+135177	A was mutated to C	Y	YBL036C	""
+151427	T was mutated to C	Y	YBL029W	""
+151430	G was mutated to A	Y	YBL029W	""
+151951-151984	LoxP site was absent	N	YBL028C	""
+153850-153883	LoxP site was absent	N	YBL027W	RPL19B
+170544	T was mutated to C	Y	YBL018C	POP8
+192637	G was mutated to A	Y	YBL009W	ALK2
+196197	T was mutated to A	N	YBL007C	SLA1
+201210	A was mutated to G	Y	YBL005W	TPE2
+201454	T was mutated to C	Y	YBL005W	TPE2	Y92H
+201608	T was mutated to A	Y	YBL005W	TPE2	L143Q
+211365	C was mutated to T	Y	YBL004W	UTP20
+211368	G was mutated to C	Y	YBL004W	UTP20
+214997-214998	G was inserted	Y	YBL001C	ECM15
+242569	A was mutated to T	Y	YBR017C	KAP104	M448K
+242769-242771	ATC was absent	Y	YBR017C	KAP104	D380-
+252860	G was mutated to A	Y	YBR021W	FUR4	A370T
+286954	C was mutated to T	Y	YBR039W	ATP3	P210S
+294238	C was mutated to A	Y	YBR043C	AQR2
+294244	G was mutated to A	Y	YBR043C	AQR2
+354878	G was mutated to A	Y	YBR073W	TID1	R539K
+362021-362054	LoxP site was absent	N	YBR077C	NIR1
+391270	C was mutated to A	Y	YBR086C	IST2	D416Y
+408365	C was mutated to T	Y	YBR097W	VPS40	P710S
+434547	C was mutated to T	Y	YBR112C	[OCT]
+434550	T was mutated to C	Y	YBR112C	[OCT]
+434553	G was mutated to C	Y	YBR112C	[OCT]
+434556	C was mutated to A	Y	YBR112C	[OCT]
+449847	A was mutated to G	Y	YBR119W	MUD1
+457692	G was mutated to A	Y	YBR125C	GCT1
+458562-458595	LoxP site was absent	N	YBR126C	TSS1
+519807	C was mutated to T	N	YBR155W	CNS1
+551987	G was mutated to T	Y	YBR172C	SMY2
+551990	C was mutated to A	Y	YBR172C	SMY2
+551993	T was mutated to A	Y	YBR172C	SMY2
+551996	G was mutated to A	Y	YBR172C	SMY2
+551999	C was mutated to A	Y	YBR172C	SMY2
+552505-552538	LoxP site was absent	N	YBR173C	RNS2
+587179	T was mutated to G	N	YBR197C	""
+604061	C was mutated to G	Y	YBR204C	LDH1	Q212H
+645856	C was mutated to T	Y	YBR229C	GLS2	G841E
+649535	C was mutated to T	Y	YBR230W-A	""
+649655	A was mutated to G	Y	YBR230W-A	""
+657734	G was mutated to A	Y	YBR235W	""	D547N
+658247	T was mutated to G	Y	YBR235W	""	F718V
+747960	T was absent	N	YBR287W	ZSP1

@@ -1,0 +1,15 @@
+coordinate (relative to yeast_chr10_3_40)	variant	in a gene?	nearest gene ID	gene name	amino acid change
+204034	T was mutated to C	Y	YJL107C	""	D207G
+225233	C was mutated to T	Y	YJL099W	CSD3
+227311	T was mutated to C	Y	YJL098W	SAP185
+272048	A was mutated to G	Y	YJL080C	SCP160	L774P
+311658	C was mutated to A	Y	YJL059W	BTN1	A382D
+387191	T was mutated to C	Y	YJL019W	YJL018W	S307P
+408449	T was mutated to C	Y	YJL005W	TSM0185	Y986H
+511671	C was mutated to T	Y	YJR058C	YAP17	D77N
+564352	C was mutated to G	Y	YJR091C	PUF1	M429I
+572009	TTGCTTGATGAAAAACTATAGGCAGCGGCGTA was mutated to TTAGAACTGCTGAAGGAGTAAGCCGCAGCATA	Y	YJR094C	IME1
+580754	G was mutated to T	Y	YJR098C	""	S625R
+705687	G was mutated to A	Y	YJR159W	SDH1	G242S
+392866	loxP site was absent	N	YJL013C	MAD3
+507487	loxP site was absent	N	YJR055W	HIT1

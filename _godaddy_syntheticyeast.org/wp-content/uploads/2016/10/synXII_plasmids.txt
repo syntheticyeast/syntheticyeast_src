@@ -1,0 +1,27 @@
+Plasmid Number	Name	Description	Source/Refference
+pZL100	t(UAG)L2	"pRS416 based plasmid used for tRNA gene replenish	 the t(UAG)L2 gene was amplified from BY4741 genome"	This study
+pZL101	3tRNA genes	"pRS416 based plasmid used for tRNA genes replenish	 the t(UAG)L1	 t(UAG)L2 and tI(UAU)L genes were amplified from BY4741 genome"	This study
+pWZ250 	tRNA array A	"synthetic tRNA array A assembled in pRS317 plasmid	 used for tRNA gene complementation"	This study
+pWZ251	tRNA array B	"synthetic tRNA array B assembled in pRS317 plasmid	 used for tRNA gene complementation"	This study
+pJD138	CEN URA3 pGAL1-HO	"HO recombinase expression plasmid with GAL1 promoter	 CEN plasmid with URA3 marker	 used for mating type switch"	obtained from James Habor lab at Brandies
+pJD148	CEN LEU2 pGAL1-HO	"HO recombinase expression plasmid with GAL1 promoter	 CEN plasmid with LEU2 marker	 used for mating type switch"	obtained from James Habor lab at Brandies
+pGH77	rDNA array deletion cassette	"rDNA array deletion cassette	 constructed by 4 fragment ligation L-GHO271/272 +Nat:GHO777/278+R:GHO273/276+Vector Pgh39:GHO216/217 BsaI"	This study
+pGH138	rDNA array deletion cassette	Insert NheI/SbfI fragment of Oj-o into pGH77L to enlarge the Left homologous arm to delete HIS during the rDNA deletion process;	This study
+pGH140	NIC96-mCherry Tagging cassette	"construct a tool plasmid	 ligate mCherry with pYM28(HIS);SalI/BamHI release mCherry from pGH139+SalI/BamHI digestion plus pYM28;
+"	This study
+pGH148	NIC96-mcherry-HIS Tagging cassette	NIC96-mcherry-HIS Tagging cassette with 500-1000bp homologous arm of targeted loci	This study
+pGH149	NOP10-EGFP-KanMX Tagging cassette	NOP10-EGFP-KanMX Tagging cassette with 500-1000bp homologous arm of targeted loci	This study
+pGH150	NOP10-EGFP-NAT Tagging cassette	 pGH149+pYM42[SacI/BamHI] with 500-1000bp homologous arm of targeted loci	This study
+pGH151	NIC96-mcherry-LEU Tagging cassette	NIC96-mcherry-LEU Tagging cassette  with 500-1000bp homologous arm of targeted loci	This study
+pGH152	NOP10-EGFP-LYS Tagging cassette	NOP10-EGFP-LYS Tagging cassette  with 500-1000bp homologous arm of targeted loci	This study
+pGH141	pRS425+rDNA	insert rDNA into pRS425 through SalI/BamHI site	This study
+pGH142	pRS425+rDNA-HYG	insert rDNA with 18S T1758C to own hygromycin resistance into pRS425 through SalI/BamHI site	This study
+pGH155	pRS425+S.bayanus.ITS	substitute ITS region of pGH141 with S.bayanus.ITS	This study
+pGH156	pRS425+S.bayanus.ITS-HYG	substitute ITS region of pGH142 with S.bayanus.ITS	This study
+pGH222	pRS425+C.albicans.ITS	substitute ITS region of pGH141 with C.albicans.ITS	This study
+pGH223	pRS425+S.pombe.ITS	substitute ITS region of pGH141 with S.pombe.ITS	This study
+pGH144	rDNA expansion cassette for Chr.III 	"III_L + Leu+ 1.2 copy rDNA (S.bayanus.ITS-HYG)	pGH120+S.bayanus.ITS-Hyg"	This study
+pGH145	rDNA expansion cassette for Chr.III 	"III_R + 1 copy rDNA £¨S.bayanus.ITS-HYG)	pGH121+S.bayanus.ITS-Hyg"	This study
+pGH146	rDNA expansion cassette for Chr.XV 	"XV_L + Leu+ 1.2 copy rDNA £¨S.bayanus.ITS-HYG)	pGH124+S.bayanus.ITS-Hyg"	This study
+pGH147	rDNA expansion cassette for Chr.XV 	"XV_R + 1 copy rDNA £¨S.bayanus.ITS-HYG)	pGH125+S.bayanus.ITS-Hyg"	This study
+pGH153	rDNA expansion cassette for RDN loci	S.bayanus.ITS-Hyg + pGH109 for rDNA one-step expansion through SalI/BamHI site	This study
